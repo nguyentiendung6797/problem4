@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Login</string>
+
+    <string name="hint_dangnhap">Đăng nhập</string>
+    <string name="hint_pass">Password</string>
+    <string name="text_login">Log in</string>
+    <string name="text_sign_up"><u>Sign up for facebook</u></string>
+
+</resources>
